@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Gios Compact Pro Evolution",
+      "des": "mô tả quần",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "áo",
+      "des": "mô tả áo"
+    },
+    {
+      "id": 3,
+      "name": "giày",
+      "des": "mô tả giày"
+    },
+    {
+      "id": 4,
+      "name": "túi",
+      "des": "mô tả túi"
+    },
+    {
+      "name": "Gios Compact",
+      "des": "meoomeo",
+      "id": 5
+    }
+  ]
+}
